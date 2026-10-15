@@ -8,7 +8,9 @@ Fisk fra brygga, selg fangsten til den gamle fiskern (som sjonglerer torsk når 
 
 ## Last ned og spill
 
-Gå til **[Releases](../../releases/latest)** og last ned:
+**Spill i nettleseren:** https://broreirik.github.io/Fisk-og-Fanterier/ (fungerer best i Chrome eller Firefox på PC)
+
+Eller gå til **[Releases](../../releases/latest)** og last ned:
 
 | System | Fil | Slik starter du |
 |---|---|---|
@@ -24,7 +26,7 @@ Du trenger ikke installere noe annet.
 | WASD / piltaster | Gå |
 | E | Snakk / kjøp / gå om bord / dra i startsnora |
 | F | Fisk (og hogg trær når du har øks) |
-| B | Bygg flåte (20 tømmer) |
+| B | Byggemeny (flåte, teine, bål, benk) |
 | Q | Gå i land |
 | Tab | Inventar |
 | Esc | Meny |
